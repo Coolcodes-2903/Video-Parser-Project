@@ -1,0 +1,11 @@
+# Video Parser Project - Dependencies
+# Install with: pip3 install -r requirements.txt
+
+# Web UI (simple, beginner-friendly)
+streamlit
+
+# For speech-to-text transcription (free, runs locally)
+openai-whisper
+
+# For audio processing
+pydub
